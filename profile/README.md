@@ -11,9 +11,9 @@
 起源是对于剧情搜索的苦恼。只记得一个片段，无法在大量剧情中快速查找，于是便诞生了此项目。
 
 
-搜索示例
-![参数](https://github.com/ArknightsSearch/.github/assets/118372959/82ca1c02-8f86-417c-bc31-4331985f4791)
-![结果](https://github.com/ArknightsSearch/.github/assets/118372959/cc09daa7-471e-45b8-a797-3ccd2d2b0ae2)
+[搜索示例](https://search.arkfans.top/input?params=[{%22type%22:%22text%22,%22value%22:%22%E7%96%91%E9%97%AE%22},{%22type%22:%22char%22,%22value%22:%22%E6%9D%B0%E6%96%AF%E9%A1%BF%22}])
+
+</div>
 
 ## 仓库说明
 
