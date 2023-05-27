@@ -2,6 +2,8 @@
 
 明日方舟剧情搜索工具
 
+[交流群：560295639](https://jq.qq.com/?_wv=1027&k=ImatbCzG)
+
 ## 开始使用
 
 [https://search.arkfans.top/](https://search.arkfans.top/)
