@@ -24,6 +24,7 @@
 
 - [ArknightsSearch-data](https://github.com/ArknightsSearch/ArknightsSearch-data) 生成可供搜索的数据
 - [ArknightsSearch-update-script](https://github.com/ArknightsSearch/ArknightsSearch-update-script) 自动更新脚本
+- [ArknightsSearch-resource](https://github.com/ArknightsSearch/ArknightsSearch-resource) 最新数据
 
 ## 鸣谢
 
